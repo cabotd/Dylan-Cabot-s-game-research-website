@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    background-image: url(header.png);
+    background-size: cover;
+}
+h1{
+    color: crimson;
+    font-size: 50px;
+}
+
